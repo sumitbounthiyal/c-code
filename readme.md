@@ -6,654 +6,636 @@
 
 📑 Table of Contents
 
-Basics & Conditions
-
-Loops & Number Programs
-
-Pattern Programs
-
-Functions & Recursion
-
-Arrays
-
-Strings
-
-Pointers & Dynamic Memory
-
-Structures, Files & Bitwise
-
-Final Interview Questions
-
 🔹 Basics & Conditions (1–30)
 <details> <summary><b>Click to view questions</b></summary>
 
-Print Hello World
+         print Hello World
 
-Add two numbers
+         Add two numbers
 
-Find remainder of two numbers
+	Find remainder of two numbers
 
-Swap two numbers using temp
+	Swap two numbers using temp
 
-Swap two numbers without temp
+	Swap two numbers without temp
 
-Check even or odd
+	Check even or odd
 
-Check positive, negative or zero
+	Check positive, negative or zero
 
-Find largest of two numbers
+	Find largest of two numbers
 
-Find largest of three numbers
+	Find largest of three numbers
 
-Check leap year
+	Check leap year
 
-Check vowel or consonant
+	Check vowel or consonant
 
-Simple calculator using switch
+	Simple calculator using switch
 
-ASCII value of character
+	ASCII value of character
 
-Celsius to Fahrenheit
+	Celsius to Fahrenheit
 
-Fahrenheit to Celsius
+	Fahrenheit to Celsius
 
-Alphabet, digit or special character
+	Alphabet, digit or special character
 
-Student grade calculation
+	Student grade calculation
 
-Divisible by 5 and 11
+	Divisible by 5 and 11
 
-Profit or loss
+	Profit or loss
 
-Electricity bill program
+	Electricity bill program
 
-Roots of quadratic equation
+	Roots of quadratic equation
 
-Triangle validity
+	Triangle validity
 
-Type of triangle
+	Type of triangle
 
-Area of circle
+	Area of circle
 
-Area of rectangle
+	Area of rectangle
 
-Area of triangle
+	Area of triangle
 
-Square and cube
+	Square and cube
 
-Compare two numbers
+	Compare two numbers
 
-Size of data types
+	Size of data types
 
-Menu-driven program
+	Menu-driven program
 
 </details>
 🔹 Loops & Number Programs (31–70)
 <details> <summary><b>Click to view questions</b></summary>
 
-Print 1 to N
+	Print 1 to N
 
-Print N to 1
+	Print N to 1
 
-Sum of natural numbers
+	Sum of natural numbers
 
-Sum of even numbers
+	Sum of even numbers
 
-Sum of odd numbers
+	Sum of odd numbers
 
-Factorial
+	Factorial
 
-Prime number
+	Prime number
 
-Prime numbers in range
+	Prime numbers in range
 
-Count digits
+	Count digits
 
-Reverse number
+	Reverse number
 
-Palindrome number
+	Palindrome number
 
-Armstrong number
+	Armstrong number
 
-Armstrong in range
+	Armstrong in range
 
-Fibonacci series
+	Fibonacci series
 
-Sum of digits
+	Sum of digits
 
-Product of digits
+	Product of digits
 
-First and last digit
+	First and last digit
 
-Power of number
+	Power of number
 
-GCD
+	GCD
 
-LCM
+	LCM
 
-Strong number
+	Strong number
 
-Perfect number
+	Perfect number
 
-Automorphic number
+	Automorphic number
 
-Harshad number
+	Harshad number
 
-Neon number
+	Neon number
 
-Spy number
+	Spy number
 
-Count even & odd digits
+	Count even & odd digits
 
-Sum of prime digits
+	Sum of prime digits
 
-Binary to decimal
+	Binary to decimal
 
-Decimal to binary
+	Decimal to binary
 
-Decimal to octal
+	Decimal to octal
 
-Decimal to hexadecimal
+	Decimal to hexadecimal
 
-Power of 2
+	Power of 2
 
-Multiplication table
+	Multiplication table
 
-Digit frequency
+	Digit frequency
 
-Reverse using loop
+	Reverse using loop
 
-Sum until input = 0
+	Sum until input = 0
 
-Factors of number
+	Factors of number
 
-Largest digit
+	Largest digit
 
-Smallest digit
+	Smallest digit
 
 </details>
 🔹 Pattern Programs (71–100)
 <details> <summary><b>Click to view questions</b></summary>
 
-Right triangle star
+	Right triangle star
 
-Inverted triangle
+	Inverted triangle
 
-Pyramid
+	Pyramid
 
-Inverted pyramid
+	Inverted pyramid
 
-Diamond
+	Diamond
 
-Number triangle
+	Number triangle
 
-Floyd’s triangle
+	Floyd’s triangle
 
-Pascal triangle
+	Pascal triangle
 
-Hollow square
+	Hollow square
 
-Hollow rectangle
+	Hollow rectangle
 
-Hollow pyramid
+	Hollow pyramid
 
-X pattern
+	X pattern
 
-Plus pattern
+	Plus pattern
 
-Butterfly pattern
+	Butterfly pattern
 
-Increasing numbers
+	Increasing numbers
 
-Decreasing numbers
+	Decreasing numbers
 
-Alphabet triangle
+	Alphabet triangle
 
-Alphabet pyramid
+	Alphabet pyramid
 
-Zigzag pattern
+	Zigzag pattern
 
-Mirror triangle
+	Mirror triangle
 
-Sandglass
+	Sandglass
 
-Binary triangle
+	Binary triangle
 
-Star square
+	Star square
 
-Hollow diamond
+	Hollow diamond
 
-Right angle number
+	Right angle number
 
-Character square
+	Character square
 
-Hourglass
+	Hourglass
 
-Cross pattern
+	Cross pattern
 
-Mixed pattern
+	Mixed pattern
 
-Custom design pattern
+	Custom design pattern
 
 </details>
 🔹 Functions & Recursion (101–130)
 <details> <summary><b>Click to view questions</b></summary>
 
-Function to add numbers
+	Function to add numbers
 
-Function to find max
+	Function to find max
 
-Function to find min
+	Function to find min
 
-Prime using function
+	Prime using function
 
-Factorial using function
+	Factorial using function
 
-Reverse using function
+	Reverse using function
 
-Palindrome using function
+	Palindrome using function
 
-Recursive factorial
+	Recursive factorial
 
-Recursive Fibonacci
+	Recursive Fibonacci
 
-Recursive power
+	Recursive power
 
-Recursive sum of digits
+	Recursive sum of digits
 
-Recursive reverse number
+	Recursive reverse number
 
-Recursive GCD
+	Recursive GCD
 
-Recursive palindrome
+	Recursive palindrome
 
-Recursive binary conversion
+	Recursive binary conversion
 
-Recursive array sum
+	Recursive array sum
 
-Recursive max in array
+	Recursive max in array
 
-Recursive string length
+	Recursive string length
 
-Recursive string reverse
+	Recursive string reverse
 
-Recursive print 1–N
+	Recursive print 1–N
 
-Recursive print N–1
+	Recursive print N–1
 
-Recursive digit count
+	Recursive digit count
 
-Recursive prime
+	Recursive prime
 
-Recursive LCM
+	Recursive LCM
 
-Recursive even/odd count
+	Recursive even/odd count
 
-Static variable program
+	Static variable program
 
-Call by value example
+	Call by value example
 
-Menu using functions
+	Menu using functions
 
-Function with pointer
+	Function with pointer
 
-Nested function logic
+	Nested function logic
 
 </details>
 🔹 Arrays (131–190)
 <details> <summary><b>Click to view questions</b></summary>
 
-Read and print array
+	Read and print array
 
-Sum of elements
+	Sum of elements
 
-Max element
+	Max element
 
-Min element
+	Min element
 
-Second largest
+	Second largest
 
-Second smallest
+	Second smallest
 
-Count even/odd
+	Count even/odd
 
-Positive/negative count
+	Positive/negative count
 
-Reverse array
+	Reverse array
 
-Copy array
+	Copy array
 
-Merge arrays
+	Merge arrays
 
-Remove duplicates
+	Remove duplicates
 
-Frequency of elements
+	Frequency of elements
 
-Sort ascending
+	Sort ascending
 
-Sort descending
+	Sort descending
 
-Bubble sort
+	Bubble sort
 
-Selection sort
+	Selection sort
 
-Insertion sort
+	Insertion sort
 
-Linear search
+	Linear search
 
-Binary search
+	Binary search
 
-Left rotation
+	Left rotation
 
-Right rotation
+	Right rotation
 
-Array palindrome
+	Array palindrome
 
-Alternate sum
+	Alternate sum
 
-Missing number
+	Missing number
 
-Count duplicates
+	Count duplicates
 
-Unique elements
+	Unique elements
 
-Intersection
+	Intersection
 
-Union
+	Union
 
-Subarray sum
+	Subarray sum
 
-Max subarray sum
+	Max subarray sum
 
-Pair with given sum
+	Pair with given sum
 
-Move zeros to end
+	Move zeros to end
 
-Count occurrence
+	Count occurrence
 
-Replace element
+	Replace element
 
-Insert element
+	Insert element
 
-Delete element
+	Delete element
 
-Matrix input/output
+	Matrix input/output
 
-Matrix addition
+	Matrix addition
 
-Matrix subtraction
+	Matrix subtraction
 
-Matrix multiplication
+	Matrix multiplication
 
-Transpose
+	Transpose
 
-Diagonal sum
+	Diagonal sum
 
-Upper triangular
+	Upper triangular
 
-Lower triangular
+	Lower triangular
 
-Identity matrix
+	Identity matrix
 
-Sparse matrix
+	Sparse matrix
 
-Row-wise sum
+	Row-wise sum
 
-Column-wise sum
+	Column-wise sum
 
-Largest element in matrix
+	Largest element in matrix
 
-Smallest element in matrix
+	Smallest element in matrix
 
-Boundary elements
+	Boundary elements
 
-Spiral matrix
+	Spiral matrix
 
-Symmetric matrix
+	Symmetric matrix
 
-Diagonal interchange
+	Diagonal interchange
 
-Count zeros
+	Count zeros
 
-Matrix rotation
+	Matrix rotation
 
-Search in matrix
+	Search in matrix
 
-Matrix frequency
+	Matrix frequency
 
-Matrix sorting
+	Matrix sorting
 
 </details>
 🔹 Strings (191–230)
 <details> <summary><b>Click to view questions</b></summary>
 
-String input/output
+	String input/output
 
-Length without strlen
+	Length without strlen
 
-Copy without strcpy
+	Copy without strcpy
 
-Compare without strcmp
+	Compare without strcmp
 
-Reverse string
+	Reverse string
 
-Palindrome string
+	Palindrome string
 
-Count vowels
+	Count vowels
 
-Count consonants
+	Count consonants
 
-Count digits
+	Count digits
 
-Count spaces
+	Count spaces
 
-Uppercase to lowercase
+	Uppercase to lowercase
 
-Lowercase to uppercase
+	Lowercase to uppercase
 
-Toggle case
+	Toggle case
 
-Count words
+	Count words
 
-Remove spaces
+	Remove spaces
 
-Remove vowels
+	Remove vowels
 
-Character frequency
+	Character frequency
 
-Replace character
+	Replace character
 
-Find substring
+	Find substring
 
-Substring count
+	Substring count
 
-Concatenate strings
+	Concatenate strings
 
-Reverse words
+	Reverse words
 
-Sort characters
+	Sort characters
 
-Anagram check
+	Anagram check
 
-First non-repeating char
+	First non-repeating char
 
-Remove duplicates
+	Remove duplicates
 
-Longest word
+	Longest word
 
-Shortest word
+	Shortest word
 
-Capitalize first letter
+	Capitalize first letter
 
-String to integer
+	String to integer
 
-Integer to string
+	Integer to string
 
-Reverse each word
+	Reverse each word
 
-Count punctuation
+	Count punctuation
 
-Valid identifier
+	Valid identifier
 
-ASCII sum
+	ASCII sum
 
-Simple encryption
+	Simple encryption
 
-Decryption
+	Decryption
 
-String rotation
+	String rotation
 
-Pattern matching
+	Pattern matching
 
-String compression
+	String compression
 
 </details>
 🔹 Pointers & Dynamic Memory (231–260)
 <details> <summary><b>Click to view questions</b></summary>
 
-Pointer basics
+	Pointer basics
 
-Pointer arithmetic
+	Pointer arithmetic
 
-Pointer with array
+	Pointer with array
 
-Pointer with string
+	Pointer with string
 
-Swap using pointer
+	Swap using pointer
 
-Function with pointer
+	Function with pointer
 
-Double pointer
+	Double pointer
 
-Array via pointer
+	Array via pointer
 
-Reverse array using pointer
+	Reverse array using pointer
 
-Sum using pointer
+	Sum using pointer
 
-malloc example
+	malloc example
 
-calloc example
+	calloc example
 
-realloc example
+	realloc example
 
-free memory
+	free memory
 
-Dynamic array
+	Dynamic array
 
-Dynamic matrix
+	Dynamic matrix
 
-Dynamic string
+	Dynamic string
 
-Dynamic count
+	Dynamic count
 
-Sorting using pointer
+	Sorting using pointer
 
-Searching using pointer
+	Searching using pointer
 
-Pointer to structure
+	Pointer to structure
 
-Pointer to pointer
+	Pointer to pointer
 
-Dynamic 2D array
+	Dynamic 2D array
 
-Memory leak example
+	Memory leak example
 
-Dangling pointer
+	Dangling pointer
 
-Null pointer
+	Null pointer
 
-Wild pointer
+	Wild pointer
 
-Command line arguments
+	Command line arguments
 
-argv sum program
+	argv sum program
 
-Pointer debugging
+	Pointer debugging
 
 </details>
 🔹 Structures, Files & Bitwise (261–300)
 <details> <summary><b>Click to view questions</b></summary>
 
-Structure input/output
+	Structure input/output
 
-Array of structures
+	Array of structures
 
-Structure with pointer
+	Structure with pointer
 
-Structure sorting
+	Structure sorting
 
-Student record system
+	Student record system
 
-Employee payroll
+	Employee payroll
 
-Nested structure
+	Nested structure
 
-Structure in function
+	Structure in function
 
-Structure return
+	Structure return
 
-Union example
+	Union example
 
-Create file
+	Create file
 
-Write to file
+	Write to file
 
-Read from file
+	Read from file
 
-Append data
+	Append data
 
-Count characters
+	Count characters
 
-Count words
+	Count words
 
-Copy file
+	Copy file
 
-Merge files
+	Merge files
 
-Search in file
+	Search in file
 
-File-based record system
+	File-based record system
 
-Even/odd using bitwise
+	Even/odd using bitwise
 
-Set bit
+	Set bit
 
-Clear bit
+	Clear bit
 
-Toggle bit
+	Toggle bit
 
-Check kth bit
+	Check kth bit
 
-Count set bits
+	Count set bits
 
-Power of 2
+	Power of 2
+	
+	XOR swap
 
-XOR swap
+	Multiply using shift
 
-Multiply using shift
+	Divide using shift
 
-Divide using shift
+	Find duplicate using bitwise
 
-Find duplicate using bitwise
+	Find unique element
 
-Find unique element
+	Reverse bits
 
-Reverse bits
+	Binary palindrome
 
-Binary palindrome
+	Gray code
 
-Gray code
+	Endianness check
 
-Endianness check
+	Memory layout
 
-Memory layout
+	sizeof structure
 
-sizeof structure
+	Padding & alignment
 
-Padding & alignment
-
-Debug C program
+	Debug C program
 
 </details>
-✅ How to use this README
+
