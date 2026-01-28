@@ -9,9 +9,9 @@
 🔹 Basics & Conditions (1–30)
 <details> <summary><b>Click to view questions</b></summary>
 
-         print Hello World
+	Print Hello World
 
-         Add two numbers
+	Add two numbers
 
 	Find remainder of two numbers
 
