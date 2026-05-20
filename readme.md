@@ -1,13 +1,15 @@
 📘 C Programming – 50 Practice Questions
 
 🎯 Goal: Strong C fundamentals + interview readiness
-📅 Plan: Solving 50 questions asked by different companys.
+📅 Plan: Solving 5 questions perday asked by different companys.
 🧠 Focus: Logic → Memory → Interview concepts
 
 📑 Table of Contents
 
 🔹 Code (1–50)
 <details> <summary><b>Click to view questions</b></summary>
+
+
 🔹 String Programs (1–10)
 <details> <summary><b>Click to view questions</b></summary>
 
@@ -257,6 +259,7 @@ Set/Clear Bits
 
 🔹  C Language Questions
 <details> <summary><b>Click to view questions</b></summary>
+
     1. What is the difference between malloc() and calloc()?
 
     Asked by: Infosys, Wipro
@@ -424,6 +427,7 @@ Set/Clear Bits
 </details>
     🔹  Advanced Embedded + C Questions
 <details> <summary><b>Click to view questions</b></summary>
+
     41. Write C code to reverse a string.
 
     Asked by: Infosys
