@@ -1,641 +1,472 @@
-📘 C Programming – 300 Practice Questions
+📘 C Programming – 50 Practice Questions
 
 🎯 Goal: Strong C fundamentals + interview readiness
-📅 Plan: 10 questions/day → 30 days
+📅 Plan: Solving 50 questions asked by different companys.
 🧠 Focus: Logic → Memory → Interview concepts
 
 📑 Table of Contents
 
-🔹 Basics & Conditions (1–30)
+🔹 Code (1–50)
+<details> <summary><b>Click to view questions</b></summary>
+🔹 String Programs (1–10)
 <details> <summary><b>Click to view questions</b></summary>
 
-	Print Hello World
+    1. Reverse a string without using library functions
 
-	Add two numbers
+    Asked by: Infosys
 
-	Find remainder of two numbers
+    2. Check whether a string is palindrome
 
-	Swap two numbers using temp
+    Asked by: Wipro
 
-	Swap two numbers without temp
+    3. Find string length without strlen()
 
-	Check even or odd
+    Asked by: HCLTech
 
-	Check positive, negative or zero
+    4. Copy one string to another without strcpy()
 
-	Find largest of two numbers
+    Asked by: Bosch
 
-	Find largest of three numbers
+    5. Concatenate two strings without strcat()
 
-	Check leap year
+    Asked by: Samsung
 
-	Check vowel or consonant
+    6. Count vowels and consonants in string
 
-	Simple calculator using switch
+    Asked by: Infosys
 
-	ASCII value of character
+    7. Find duplicate characters in string
 
-	Celsius to Fahrenheit
+    Asked by: Qualcomm
 
-	Fahrenheit to Celsius
+    8. Remove spaces from string
 
-	Alphabet, digit or special character
+    Asked by: Tata Elxsi
 
-	Student grade calculation
+    9. Convert lowercase to uppercase without library
 
-	Divisible by 5 and 11
+    Asked by: Intel
 
-	Profit or loss
+    10. Find frequency of each character
 
-	Electricity bill program
-
-	Roots of quadratic equation
-
-	Triangle validity
-
-	Type of triangle
-
-	Area of circle
-
-	Area of rectangle
-
-	Area of triangle
-
-	Square and cube
-
-	Compare two numbers
-
-	Size of data types
-
-	Menu-driven program
+    Asked by: Bosch	Print Hello World
 
 </details>
-🔹 Loops & Number Programs (31–70)
+🔹 Array Programs (10–20)
 <details> <summary><b>Click to view questions</b></summary>
 
-	Print 1 to N
+	11. Find largest and smallest element in array
 
-	Print N to 1
+    Asked by: Infosys
 
-	Sum of natural numbers
+    12. Reverse an array
 
-	Sum of even numbers
+    Asked by: Samsung
 
-	Sum of odd numbers
+    13. Sort array using bubble sort
 
-	Factorial
+    Asked by: Wipro
 
-	Prime number
+    14. Find second largest number
 
-	Prime numbers in range
+    Asked by: Bosch
 
-	Count digits
+    15. Remove duplicates from array
 
-	Reverse number
+    Asked by: Qualcomm
 
-	Palindrome number
+    16. Merge two arrays
 
-	Armstrong number
+    Asked by: HCLTech
 
-	Armstrong in range
+    17. Rotate array left/right
 
-	Fibonacci series
+    Asked by: Intel
 
-	Sum of digits
+    18. Search element using binary search
 
-	Product of digits
+    Asked by: Texas Instruments
 
-	First and last digit
+    19. Find missing number in array
 
-	Power of number
+    Asked by: Infosys
 
-	GCD
+    20. Find duplicate number in array
 
-	LCM
-
-	Strong number
-
-	Perfect number
-
-	Automorphic number
-
-	Harshad number
-
-	Neon number
-
-	Spy number
-
-	Count even & odd digits
-
-	Sum of prime digits
-
-	Binary to decimal
-
-	Decimal to binary
-
-	Decimal to octal
-
-	Decimal to hexadecimal
-
-	Power of 2
-
-	Multiplication table
-
-	Digit frequency
-
-	Reverse using loop
-
-	Sum until input = 0
-
-	Factors of number
-
-	Largest digit
-
-	Smallest digit
+    Asked by: NVIDIA
 
 </details>
-🔹 Pattern Programs (71–100)
+🔹 Pointer Programs (21–25)
 <details> <summary><b>Click to view questions</b></summary>
 
-	Right triangle star
+    21. Swap two numbers using pointers
 
-	Inverted triangle
+    Asked by: Wipro
 
-	Pyramid
+    22. Access array using pointers
 
-	Inverted pyramid
+    Asked by: Bosch
 
-	Diamond
+    23. Reverse string using pointers
 
-	Number triangle
+    Asked by: Qualcomm
 
-	Floyd’s triangle
+    24. Pointer arithmetic examples
 
-	Pascal triangle
+    Asked by: Intel
 
-	Hollow square
+    25. Implement strlen() using pointers
 
-	Hollow rectangle
-
-	Hollow pyramid
-
-	X pattern
-
-	Plus pattern
-
-	Butterfly pattern
-
-	Increasing numbers
-
-	Decreasing numbers
-
-	Alphabet triangle
-
-	Alphabet pyramid
-
-	Zigzag pattern
-
-	Mirror triangle
-
-	Sandglass
-
-	Binary triangle
-
-	Star square
-
-	Hollow diamond
-
-	Right angle number
-
-	Character square
-
-	Hourglass
-
-	Cross pattern
-
-	Mixed pattern
-
-	Custom design pattern
+    Asked by: Samsung
 
 </details>
-🔹 Functions & Recursion (101–130)
+🔹 Linklist programing  (25–32)
 <details> <summary><b>Click to view questions</b></summary>
 
-	Function to add numbers
+	26. Create singly linked list
 
-	Function to find max
+    Asked by: NVIDIA
 
-	Function to find min
+    27. Insert node at beginning
 
-	Prime using function
+    Asked by: Bosch
 
-	Factorial using function
+    28. Insert node at end
 
-	Reverse using function
+    Asked by: Infosys
 
-	Palindrome using function
+    29. Delete node from linked list
 
-	Recursive factorial
+    Asked by: HCLTech
 
-	Recursive Fibonacci
+    30. Reverse linked list
 
-	Recursive power
+    Asked by: Qualcomm
 
-	Recursive sum of digits
+    31. Detect loop in linked list
 
-	Recursive reverse number
+    Asked by: Intel
 
-	Recursive GCD
+    32. Find middle node of linked list
 
-	Recursive palindrome
+    Asked by: Texas Instruments
 
-	Recursive binary conversion
-
-	Recursive array sum
-
-	Recursive max in array
-
-	Recursive string length
-
-	Recursive string reverse
-
-	Recursive print 1–N
-
-	Recursive print N–1
-
-	Recursive digit count
-
-	Recursive prime
-
-	Recursive LCM
-
-	Recursive even/odd count
-
-	Static variable program
-
-	Call by value example
-
-	Menu using functions
-
-	Function with pointer
-
-	Nested function logic
 
 </details>
-🔹 Arrays (131–190)
+🔹 Bit Manipulation Programs (33–38)
 <details> <summary><b>Click to view questions</b></summary>
 
-	Read and print array
+	33. Check odd/even using bitwise operator
 
-	Sum of elements
+    Asked by: Bosch
 
-	Max element
+    34. Count set bits
 
-	Min element
+    Asked by: NXP Semiconductors
 
-	Second largest
+    35. Swap two numbers without temp variable
 
-	Second smallest
+    Asked by: Infosys
 
-	Count even/odd
+    36. Find whether number is power of 2
 
-	Positive/negative count
+    Asked by: Samsung
 
-	Reverse array
+    37. Set, clear, toggle bits
 
-	Copy array
+    Asked by: Intel
 
-	Merge arrays
+    38. Find position of first set bit
 
-	Remove duplicates
-
-	Frequency of elements
-
-	Sort ascending
-
-	Sort descending
-
-	Bubble sort
-
-	Selection sort
-
-	Insertion sort
-
-	Linear search
-
-	Binary search
-
-	Left rotation
-
-	Right rotation
-
-	Array palindrome
-
-	Alternate sum
-
-	Missing number
-
-	Count duplicates
-
-	Unique elements
-
-	Intersection
-
-	Union
-
-	Subarray sum
-
-	Max subarray sum
-
-	Pair with given sum
-
-	Move zeros to end
-
-	Count occurrence
-
-	Replace element
-
-	Insert element
-
-	Delete element
-
-	Matrix input/output
-
-	Matrix addition
-
-	Matrix subtraction
-
-	Matrix multiplication
-
-	Transpose
-
-	Diagonal sum
-
-	Upper triangular
-
-	Lower triangular
-
-	Identity matrix
-
-	Sparse matrix
-
-	Row-wise sum
-
-	Column-wise sum
-
-	Largest element in matrix
-
-	Smallest element in matrix
-
-	Boundary elements
-
-	Spiral matrix
-
-	Symmetric matrix
-
-	Diagonal interchange
-
-	Count zeros
-
-	Matrix rotation
-
-	Search in matrix
-
-	Matrix frequency
-
-	Matrix sorting
+    Asked by: Qualcomm
 
 </details>
-🔹 Strings (191–230)
+🔹 Embedded Oriented Programs (39–50)
 <details> <summary><b>Click to view questions</b></summary>
 
-	String input/output
+    39. Implement circular buffer
 
-	Length without strlen
+    Asked by: NVIDIA
 
-	Copy without strcpy
+    40. UART transmit/receive basic code
 
-	Compare without strcmp
+    Asked by: Texas Instruments
 
-	Reverse string
+    41. Delay function without using timers
 
-	Palindrome string
+    Asked by: Bosch
 
-	Count vowels
+    42. Debouncing switch logic
 
-	Count consonants
+    Asked by: Continental
 
-	Count digits
+    43. LED blinking using GPIO
 
-	Count spaces
+    Asked by: NXP Semiconductors
 
-	Uppercase to lowercase
+    44. Implement queue using array
 
-	Lowercase to uppercase
+    Asked by: Infosys
 
-	Toggle case
+    45. Implement stack using array
 
-	Count words
+    Asked by: Wipro
 
-	Remove spaces
+    46. Simple state machine implementation
 
-	Remove vowels
+    Asked by: Qualcomm
 
-	Character frequency
+    47. Producer-consumer problem
 
-	Replace character
+    Asked by: Intel
 
-	Find substring
+    48. Implement ring buffer
 
-	Substring count
+    Asked by: Samsung
 
-	Concatenate strings
+    49. Write custom memory copy function
 
-	Reverse words
+    Asked by: Bosch
 
-	Sort characters
+    50. Implement mini scheduler task loop
 
-	Anagram check
-
-	First non-repeating char
-
-	Remove duplicates
-
-	Longest word
-
-	Shortest word
-
-	Capitalize first letter
-
-	String to integer
-
-	Integer to string
-
-	Reverse each word
-
-	Count punctuation
-
-	Valid identifier
-
-	ASCII sum
-
-	Simple encryption
-
-	Decryption
-
-	String rotation
-
-	Pattern matching
-
-	String compression
+    Asked by: NVIDIA
 
 </details>
-🔹 Pointers & Dynamic Memory (231–260)
+🔹 Most Important Programs for Embedded Interviews (231–260)
 <details> <summary><b>Click to view questions</b></summary>
 
-	Pointer basics
+Focus highly on these:
 
-	Pointer arithmetic
+Linked List
+Circular Buffer
+Bit Manipulation
+String Reverse
+Pointer Programs
+UART Logic
+Queue/Stack
+State Machine
+Memory Copy
+Set/Clear Bits
 
-	Pointer with array
-
-	Pointer with string
-
-	Swap using pointer
-
-	Function with pointer
-
-	Double pointer
-
-	Array via pointer
-
-	Reverse array using pointer
-
-	Sum using pointer
-
-	malloc example
-
-	calloc example
-
-	realloc example
-
-	free memory
-
-	Dynamic array
-
-	Dynamic matrix
-
-	Dynamic string
-
-	Dynamic count
-
-	Sorting using pointer
-
-	Searching using pointer
-
-	Pointer to structure
-
-	Pointer to pointer
-
-	Dynamic 2D array
-
-	Memory leak example
-
-	Dangling pointer
-
-	Null pointer
-
-	Wild pointer
-
-	Command line arguments
-
-	argv sum program
-
-	Pointer debugging
-
+</details> 
 </details>
-🔹 Structures, Files & Bitwise (261–300)
+
+🔹 THEORY (1–50)
 <details> <summary><b>Click to view questions</b></summary>
 
-	Structure input/output
+🔹  C Language Questions
+<details> <summary><b>Click to view questions</b></summary>
+    1. What is the difference between malloc() and calloc()?
 
-	Array of structures
+    Asked by: Infosys, Wipro
 
-	Structure with pointer
+    2. Difference between struct and union?
 
-	Structure sorting
+    Asked by: Qualcomm
 
-	Student record system
+    3. What is a dangling pointer?
 
-	Employee payroll
+    Asked by: Bosch
 
-	Nested structure
+    4. Explain volatile keyword in C.
 
-	Structure in function
+    Asked by: Texas Instruments, Intel
 
-	Structure return
+    5. Difference between const and volatile?
 
-	Union example
+    Asked by: NXP Semiconductors
 
-	Create file
+    6. What is pointer arithmetic?
 
-	Write to file
+    Asked by: Tata Elxsi
 
-	Read from file
+    7. Explain function pointers.
 
-	Append data
+    Asked by: NVIDIA
 
-	Count characters
+    8. Difference between stack and heap memory?
 
-	Count words
+    Asked by: Samsung
 
-	Copy file
+    9. What are storage classes in C?
 
-	Merge files
+    Asked by: HCLTech
 
-	Search in file
+    10. Explain static variable behavior.
 
-	File-based record system
+    Asked by: Continental
 
-	Even/odd using bitwise
+    11. What is recursion? Why is it avoided in embedded systems?
 
-	Set bit
+    Asked by: Bosch
 
-	Clear bit
+    12. Difference between ++i and i++?
 
-	Toggle bit
+    Asked by: Infosys
 
-	Check kth bit
+    13. What are bit fields?
 
-	Count set bits
+    Asked by: Qualcomm
 
-	Power of 2
-	
-	XOR swap
+    14. Explain endianess (Little vs Big Endian).
 
-	Multiply using shift
+    Asked by: Intel
 
-	Divide using shift
+    15. What is a segmentation fault?
 
-	Find duplicate using bitwise
+    Asked by: Samsung
 
-	Find unique element
+    16. Difference between macro and inline function?
 
-	Reverse bits
+    Asked by: Texas Instruments
 
-	Binary palindrome
+    17. What is memory leakage?
 
-	Gray code
+    Asked by: Wipro
 
-	Endianness check
+    18. Explain typedef in C.
 
-	Memory layout
+    Asked by: Infosys
 
-	sizeof structure
+    19. What is the use of extern keyword?
 
-	Padding & alignment
+    Asked by: HCLTech
 
-	Debug C program
+    20. Difference between shallow copy and deep copy?
+
+    Asked by: NVIDIA
 
 </details>
+    🔹 Embedded Systems Questions
+<details> <summary><b>Click to view questions</b></summary>
+    
 
+    21. What is an embedded system?
+
+    Asked by: Tata Elxsi
+
+    22. Difference between microprocessor and microcontroller?
+
+    Asked by: Bosch
+
+    23. Explain interrupt handling.
+
+    Asked by: NXP Semiconductors
+
+    24. What is ISR (Interrupt Service Routine)?
+
+    Asked by: Intel
+
+    25. What happens if interrupt occurs inside ISR?
+
+    Asked by: Qualcomm
+
+    26. Difference between polling and interrupts?
+
+    Asked by: Texas Instruments
+
+    27. What is watchdog timer?
+
+    Asked by: Continental
+
+    28. Explain SPI protocol.
+
+    Asked by: NVIDIA
+
+    29. Explain I2C protocol.
+
+    Asked by: Bosch
+
+    30. Difference between SPI and I2C?
+
+    Asked by: Samsung
+
+    31. What is UART communication?
+
+    Asked by: Infosys
+
+    32. Explain DMA.
+
+    Asked by: Intel
+
+    33. What is RTOS?
+
+    Asked by: Qualcomm
+
+    34. Difference between process and thread?
+
+    Asked by: HCLTech
+
+    35. What is context switching?
+
+    Asked by: NXP Semiconductors
+
+    36. What are semaphores?
+
+    Asked by: Bosch
+
+    37. What is priority inversion?
+
+    Asked by: NVIDIA
+
+    38. Explain bootloader.
+
+    Asked by: Texas Instruments
+
+    39. What is memory-mapped I/O?
+
+    Asked by: Intel
+
+    40. Difference between RAM, ROM, Flash?
+
+    Asked by: Wipro
+</details>
+    🔹  Advanced Embedded + C Questions
+<details> <summary><b>Click to view questions</b></summary>
+    41. Write C code to reverse a string.
+
+    Asked by: Infosys
+
+    42. Write code for linked list insertion.
+
+    Asked by: Samsung
+
+    43. How do you optimize memory in embedded systems?
+
+    Asked by: Bosch
+
+    44. What are race conditions?
+
+    Asked by: Qualcomm
+
+    45. Explain deadlock.
+
+    Asked by: NXP Semiconductors
+
+    46. What is cache memory?
+
+    Asked by: Intel
+
+    47. Explain booting process in embedded systems.
+
+    Asked by: Continental
+
+    48. What debugging tools have you used?
+
+    Asked by: Tata Elxsi
+
+    49. Explain linker script.
+
+    Asked by: NVIDIA
+
+    50. How do you reduce power consumption in embedded devices?
+
+    Asked by: Texas Instruments
+
+    51.	Debug C program
+
+    Asked by: All
+
+</details>
+</details>
